@@ -1,4 +1,4 @@
 ### COOKIE CLEANER
 
-Clear all the your current tab domain or a specific domain cookies.
+Chrome extension to clear all the your current tab domain or a specific domain cookies.
 
