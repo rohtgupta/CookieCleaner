@@ -1,0 +1,19 @@
+{
+  "name": "Cookie Cleaner",
+  "description": "Cleans the given domain's cookies",
+  "manifest_version": 3,
+  "version": "1.0",
+  "permissions": [
+      "cookies",
+      "tabs"
+  ],
+  "host_permissions": [
+      "<all_urls>"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon" :{
+      "16":"broom.png"
+    }
+  }
+}
